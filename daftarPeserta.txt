@@ -1,0 +1,101 @@
+10
+10
+Jessica Tamara
+Jess
+30/01/2000
+P
+080123456789
+jess.tamara@email.com
+Look Models
+167
+49
+7
+Gabriella Santoso
+Gaby
+03/06/2001
+P
+087890123456
+gaby.santoso@email.com
+Star Models
+165
+48
+3
+Cindy Aurelia Wijaya
+Cindy
+10/11/1999
+P
+083456789012
+cindy.wijaya@email.com
+Wakil Models
+168
+50
+5
+Evelyn Gunawan
+Eve
+28/09/2000
+P
+085678901234
+evelyn.gunawan@email.com
+Independen
+170
+52
+9
+Irene Kusumawardhani
+Irene
+25/08/1997
+P
+089012345678
+irene.kusuma@email.com
+Elite Models
+169
+53
+1
+Alicia Putri Maharani
+Alicia
+15/03/1998
+P
+081234567890
+alicia.putri@email.com
+Elite Models
+172
+55
+2
+Bambang Susanto
+Bambang
+22/07/1997
+L
+082345678901
+bambang.s@email.com
+Look Models
+185
+72
+4
+Dennis Pratama
+Dennis
+05/01/1996
+L
+084567890123
+dennis.p@email.com
+BM Models
+178
+68
+6
+Fahrezi Akbar
+Rezi
+19/12/1995
+L
+086789012345
+fahrezi.akbar@email.com
+Mega Models
+182
+75
+8
+Hendra Wijoyo
+Hendra
+14/04/1994
+L
+088901234567
+hendra.w@email.com
+Independen
+175
+70
