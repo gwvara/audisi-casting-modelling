@@ -123,5 +123,3 @@ Dengan pendekatan tersebut, program tidak hanya berfungsi sebagai tugas akademik
 - Tidak memerlukan database atau instalasi tambahan.
 
 ---
-
-> "Simple, lightweight, and gets the job done."
